@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Saiprasadpadhy/Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Saiprasadpadhy/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0169-majority-element](https://github.com/Saiprasadpadhy/Leetcode/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/Saiprasadpadhy/Leetcode/tree/master/0283-move-zeroes) |
 | [0493-reverse-pairs](https://github.com/Saiprasadpadhy/Leetcode/tree/master/0493-reverse-pairs) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Saiprasadpadhy/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Saiprasadpadhy/Leetcode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/Saiprasadpadhy/Leetcode/tree/master/0169-majority-element) |
 ## Binary Search
 |  |
 | ------- |
@@ -27,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Saiprasadpadhy/Leetcode/tree/master/0169-majority-element) |
 | [0493-reverse-pairs](https://github.com/Saiprasadpadhy/Leetcode/tree/master/0493-reverse-pairs) |
 ## Binary Indexed Tree
 |  |
@@ -60,4 +63,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/Saiprasadpadhy/Leetcode/tree/master/1025-divisor-game) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Saiprasadpadhy/Leetcode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Saiprasadpadhy/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
