@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Saiprasadpadhy/Leetcode/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/Saiprasadpadhy/Leetcode/tree/master/0283-move-zeroes) |
 | [0493-reverse-pairs](https://github.com/Saiprasadpadhy/Leetcode/tree/master/0493-reverse-pairs) |
+| [0704-binary-search](https://github.com/Saiprasadpadhy/Leetcode/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/Saiprasadpadhy/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Saiprasadpadhy/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Saiprasadpadhy/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Saiprasadpadhy/Leetcode/tree/master/0493-reverse-pairs) |
+| [0704-binary-search](https://github.com/Saiprasadpadhy/Leetcode/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/Saiprasadpadhy/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Divide and Conquer
 |  |
