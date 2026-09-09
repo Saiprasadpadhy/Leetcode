@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Saiprasadpadhy/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Saiprasadpadhy/Leetcode/tree/master/0009-palindrome-number) |
 | [0258-add-digits](https://github.com/Saiprasadpadhy/Leetcode/tree/master/0258-add-digits) |
 | [1025-divisor-game](https://github.com/Saiprasadpadhy/Leetcode/tree/master/1025-divisor-game) |
