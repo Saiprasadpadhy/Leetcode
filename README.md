@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Saiprasadpadhy/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Saiprasadpadhy/Leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Saiprasadpadhy/Leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Saiprasadpadhy/Leetcode/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/Saiprasadpadhy/Leetcode/tree/master/0283-move-zeroes) |
 | [0493-reverse-pairs](https://github.com/Saiprasadpadhy/Leetcode/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Saiprasadpadhy/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - created using 
 | [0073-set-matrix-zeroes](https://github.com/Saiprasadpadhy/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Saiprasadpadhy/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Saiprasadpadhy/Leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Saiprasadpadhy/Leetcode/tree/master/0229-majority-element-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -103,10 +105,12 @@ A collection of LeetCode questions to ace the coding interview! - created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Saiprasadpadhy/Leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Saiprasadpadhy/Leetcode/tree/master/0229-majority-element-ii) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Saiprasadpadhy/Leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Saiprasadpadhy/Leetcode/tree/master/0229-majority-element-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -157,4 +161,8 @@ A collection of LeetCode questions to ace the coding interview! - created using 
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/Saiprasadpadhy/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/Saiprasadpadhy/Leetcode/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
