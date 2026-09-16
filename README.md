@@ -165,4 +165,8 @@ A collection of LeetCode questions to ace the coding interview! - created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Saiprasadpadhy/Leetcode/tree/master/0229-majority-element-ii) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/Saiprasadpadhy/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
