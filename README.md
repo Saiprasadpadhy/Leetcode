@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - created using 
 | [0169-majority-element](https://github.com/Saiprasadpadhy/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Saiprasadpadhy/Leetcode/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/Saiprasadpadhy/Leetcode/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Saiprasadpadhy/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Saiprasadpadhy/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0493-reverse-pairs](https://github.com/Saiprasadpadhy/Leetcode/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Saiprasadpadhy/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - created using 
 | [0234-palindrome-linked-list](https://github.com/Saiprasadpadhy/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Saiprasadpadhy/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Saiprasadpadhy/Leetcode/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/Saiprasadpadhy/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0876-middle-of-the-linked-list](https://github.com/Saiprasadpadhy/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Saiprasadpadhy/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Saiprasadpadhy/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - created using 
 | [0141-linked-list-cycle](https://github.com/Saiprasadpadhy/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Saiprasadpadhy/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Saiprasadpadhy/Leetcode/tree/master/0229-majority-element-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/Saiprasadpadhy/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Saiprasadpadhy/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Binary Search
 |  |
@@ -65,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Saiprasadpadhy/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Saiprasadpadhy/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Saiprasadpadhy/Leetcode/tree/master/0162-find-peak-element) |
+| [0349-intersection-of-two-arrays](https://github.com/Saiprasadpadhy/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0493-reverse-pairs](https://github.com/Saiprasadpadhy/Leetcode/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Saiprasadpadhy/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Saiprasadpadhy/Leetcode/tree/master/0704-binary-search) |
@@ -122,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - created using 
 | [0015-3sum](https://github.com/Saiprasadpadhy/Leetcode/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/Saiprasadpadhy/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Saiprasadpadhy/Leetcode/tree/master/0229-majority-element-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/Saiprasadpadhy/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Saiprasadpadhy/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Counting
 |  |
