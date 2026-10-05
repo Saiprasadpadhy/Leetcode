@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - created using 
 | [0162-find-peak-element](https://github.com/Saiprasadpadhy/Leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Saiprasadpadhy/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Saiprasadpadhy/Leetcode/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/Saiprasadpadhy/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Saiprasadpadhy/Leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Saiprasadpadhy/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Saiprasadpadhy/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Saiprasadpadhy/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Saiprasadpadhy/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Saiprasadpadhy/Leetcode/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/Saiprasadpadhy/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Saiprasadpadhy/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Saiprasadpadhy/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Binary Search
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Saiprasadpadhy/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Saiprasadpadhy/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Saiprasadpadhy/Leetcode/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/Saiprasadpadhy/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Saiprasadpadhy/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0493-reverse-pairs](https://github.com/Saiprasadpadhy/Leetcode/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Saiprasadpadhy/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -109,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - created using 
 | [0009-palindrome-number](https://github.com/Saiprasadpadhy/Leetcode/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/Saiprasadpadhy/Leetcode/tree/master/0069-sqrtx) |
 | [0258-add-digits](https://github.com/Saiprasadpadhy/Leetcode/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/Saiprasadpadhy/Leetcode/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/Saiprasadpadhy/Leetcode/tree/master/0507-perfect-number) |
 | [0633-sum-of-square-numbers](https://github.com/Saiprasadpadhy/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [1025-divisor-game](https://github.com/Saiprasadpadhy/Leetcode/tree/master/1025-divisor-game) |
@@ -134,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - created using 
 | [0015-3sum](https://github.com/Saiprasadpadhy/Leetcode/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/Saiprasadpadhy/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Saiprasadpadhy/Leetcode/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/Saiprasadpadhy/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Saiprasadpadhy/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Saiprasadpadhy/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Saiprasadpadhy/Leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
@@ -236,4 +241,8 @@ A collection of LeetCode questions to ace the coding interview! - created using 
 |  |
 | ------- |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Saiprasadpadhy/Leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Saiprasadpadhy/Leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
