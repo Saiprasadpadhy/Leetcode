@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - created using 
 | [0493-reverse-pairs](https://github.com/Saiprasadpadhy/Leetcode/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Saiprasadpadhy/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Saiprasadpadhy/Leetcode/tree/master/0704-binary-search) |
+| [0877-stone-game](https://github.com/Saiprasadpadhy/Leetcode/tree/master/0877-stone-game) |
 | [1004-max-consecutive-ones-iii](https://github.com/Saiprasadpadhy/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1539-kth-missing-positive-number](https://github.com/Saiprasadpadhy/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Saiprasadpadhy/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - created using 
 | [0268-missing-number](https://github.com/Saiprasadpadhy/Leetcode/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/Saiprasadpadhy/Leetcode/tree/master/0507-perfect-number) |
 | [0633-sum-of-square-numbers](https://github.com/Saiprasadpadhy/Leetcode/tree/master/0633-sum-of-square-numbers) |
+| [0877-stone-game](https://github.com/Saiprasadpadhy/Leetcode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Saiprasadpadhy/Leetcode/tree/master/1025-divisor-game) |
 | [1903-largest-odd-number-in-string](https://github.com/Saiprasadpadhy/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2235-add-two-integers](https://github.com/Saiprasadpadhy/Leetcode/tree/master/2235-add-two-integers) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Saiprasadpadhy/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0877-stone-game](https://github.com/Saiprasadpadhy/Leetcode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Saiprasadpadhy/Leetcode/tree/master/1025-divisor-game) |
 ## Brainteaser
 |  |
@@ -133,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - created using 
 ## Game Theory
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/Saiprasadpadhy/Leetcode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Saiprasadpadhy/Leetcode/tree/master/1025-divisor-game) |
 ## Sorting
 |  |
@@ -248,4 +252,12 @@ A collection of LeetCode questions to ace the coding interview! - created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Saiprasadpadhy/Leetcode/tree/master/0268-missing-number) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Saiprasadpadhy/Leetcode/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Saiprasadpadhy/Leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
