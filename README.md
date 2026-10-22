@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - created using 
 | [1672-richest-customer-wealth](https://github.com/Saiprasadpadhy/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Saiprasadpadhy/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Saiprasadpadhy/Leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
+| [1920-build-array-from-permutation](https://github.com/Saiprasadpadhy/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Saiprasadpadhy/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Saiprasadpadhy/Leetcode/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/Saiprasadpadhy/Leetcode/tree/master/0258-add-digits) |
+| [1920-build-array-from-permutation](https://github.com/Saiprasadpadhy/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Saiprasadpadhy/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Number Theory
 |  |
