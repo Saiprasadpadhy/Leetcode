@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Saiprasadpadhy/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Saiprasadpadhy/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1539-kth-missing-positive-number](https://github.com/Saiprasadpadhy/Leetcode/tree/master/1539-kth-missing-positive-number) |
+| [1672-richest-customer-wealth](https://github.com/Saiprasadpadhy/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Saiprasadpadhy/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Saiprasadpadhy/Leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Saiprasadpadhy/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - created using 
 | [0073-set-matrix-zeroes](https://github.com/Saiprasadpadhy/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Saiprasadpadhy/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Saiprasadpadhy/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [1672-richest-customer-wealth](https://github.com/Saiprasadpadhy/Leetcode/tree/master/1672-richest-customer-wealth) |
 ## String
 |  |
 | ------- |
