@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - created using 
 | [0704-binary-search](https://github.com/Saiprasadpadhy/Leetcode/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/Saiprasadpadhy/Leetcode/tree/master/0877-stone-game) |
 | [1004-max-consecutive-ones-iii](https://github.com/Saiprasadpadhy/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Saiprasadpadhy/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1539-kth-missing-positive-number](https://github.com/Saiprasadpadhy/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Saiprasadpadhy/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Saiprasadpadhy/Leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - created using 
 | [0633-sum-of-square-numbers](https://github.com/Saiprasadpadhy/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0877-stone-game](https://github.com/Saiprasadpadhy/Leetcode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Saiprasadpadhy/Leetcode/tree/master/1025-divisor-game) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Saiprasadpadhy/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1903-largest-odd-number-in-string](https://github.com/Saiprasadpadhy/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2235-add-two-integers](https://github.com/Saiprasadpadhy/Leetcode/tree/master/2235-add-two-integers) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Saiprasadpadhy/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
