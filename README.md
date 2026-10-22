@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - created using 
 | [0162-find-peak-element](https://github.com/Saiprasadpadhy/Leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Saiprasadpadhy/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Saiprasadpadhy/Leetcode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Saiprasadpadhy/Leetcode/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/Saiprasadpadhy/Leetcode/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Saiprasadpadhy/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Saiprasadpadhy/Leetcode/tree/master/0268-missing-number) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - created using 
 | [0151-reverse-words-in-a-string](https://github.com/Saiprasadpadhy/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Saiprasadpadhy/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Saiprasadpadhy/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/Saiprasadpadhy/Leetcode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Saiprasadpadhy/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Saiprasadpadhy/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Saiprasadpadhy/Leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - created using 
 | [0048-rotate-image](https://github.com/Saiprasadpadhy/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Saiprasadpadhy/Leetcode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Saiprasadpadhy/Leetcode/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/Saiprasadpadhy/Leetcode/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/Saiprasadpadhy/Leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Saiprasadpadhy/Leetcode/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/Saiprasadpadhy/Leetcode/tree/master/0507-perfect-number) |
