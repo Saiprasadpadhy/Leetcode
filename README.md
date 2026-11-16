@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - created using 
 ## Stack
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Saiprasadpadhy/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/Saiprasadpadhy/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/Saiprasadpadhy/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 ## Bracket Sequences
@@ -314,4 +315,12 @@ A collection of LeetCode questions to ace the coding interview! - created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Saiprasadpadhy/Leetcode/tree/master/0287-find-the-duplicate-number) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Saiprasadpadhy/Leetcode/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Saiprasadpadhy/Leetcode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
