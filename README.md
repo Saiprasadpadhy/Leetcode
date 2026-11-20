@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - created using 
 | [0189-rotate-array](https://github.com/Saiprasadpadhy/Leetcode/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/Saiprasadpadhy/Leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Saiprasadpadhy/Leetcode/tree/master/0268-missing-number) |
+| [0492-construct-the-rectangle](https://github.com/Saiprasadpadhy/Leetcode/tree/master/0492-construct-the-rectangle) |
 | [0507-perfect-number](https://github.com/Saiprasadpadhy/Leetcode/tree/master/0507-perfect-number) |
 | [0633-sum-of-square-numbers](https://github.com/Saiprasadpadhy/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0877-stone-game](https://github.com/Saiprasadpadhy/Leetcode/tree/master/0877-stone-game) |
